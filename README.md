@@ -1,4 +1,4 @@
-# pico-interactive-originals
+# pico-interactive-origins
 
 Moved from https://github.com/danielbloy/pico-interactive/originals
 
