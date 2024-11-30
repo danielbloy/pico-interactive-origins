@@ -1,5 +1,7 @@
 # pico-interactive-origins
 
+Please see my website [Code Club Adventures](http://codeclubadventures.com/) for more coding materials.
+
 Moved from https://github.com/danielbloy/pico-interactive/originals
 
 Contains the code for the original MicroPython and CircuitPython projects
